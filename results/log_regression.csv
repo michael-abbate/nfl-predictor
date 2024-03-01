@@ -1,0 +1,61 @@
+week,result,output
+6,0,The Indianapolis Colts have a probability of 0.76 of beating the Jacksonville Jaguars.
+6,1,The Arizona Cardinals have a probability of 0.19 of beating the Los Angeles Rams.
+6,1,The New England Patriots have a probability of 0.39 of beating the Las Vegas Raiders.
+6,1, The Denver Broncos have a probability of 0.4 of beating the Kansas City Chiefs.
+6,1,The Minnesota Vikings have a probability of 0.54 of beating the Chicago Bears.
+7,1,The Los Angeles Chargers have a probability of 0.39 of beating the Kansas City Chiefs.
+7,0,The Atlanta Falcons have a probability of 0.37 of beating the Tampa Bay Buccaneers.
+7,1,The Arizona Cardinals have a probability of 0.28 of beating the Seattle Seahawks.
+7,0,The Buffalo Bills have a probability of 0.82 of beating the New England Patriots.
+7,0,The Washington Commanders have a probability of 0.65 of beating the New York Giants.
+8,0,The Philadelphia Eagles have a probability of 0.48 of beating the Washington Commanders.
+8,0,The Kansas City Chiefs have a probability of 0.61 of beating the Denver Broncos.
+8,1,The Minnesota Vikings have a probability of 0.53 of beating the Green Bay Packers.
+8,1,The New England Patriots have a probability of 0.31 of beating the Miami Dolphins.
+9,1,The Dallas Cowboys have a probability of 0.22 of beating the Philadelphia Eagles.
+9,1,The Los Angeles Rams have a probability of 0.37 of beating the Green Bay Packers.
+10,0,The Cleveland Browns have a probability of 0.21 of beating the Baltimore Ravens.
+10,1,The Indianapolis Colts have a probability of 0.56 of beating the New England Patriots.
+10,0,The New York Giants have a probability of 0.05 of beating the Dallas Cowboys.
+11,1,The Pittsburgh Steelers have a probability of 0.22 of beating the Cleveland Browns.
+11,1,The Cincinnati Bengals have a probability of 0.36 of beating the Baltimore Ravens.
+11,0,The New York Jets have a probability of 0.01 of beating the Buffalo Bills.
+11,1,The Tampa Bay Buccaneers have a probability of 0.16 of beating the San Francisco 49ers.
+11,1,The New York Giants have a probability of 0.13 of beating the Washington Commanders.
+11,1,The Chicago Bears have a probability of 0.04 of beating the Detroit Lions.
+11,1,The Tennessee Titans have a probability of 0.15 of beating the Jacksonville Jaguars.
+11,0,The Seattle Seahawks have a probability of 0.72 of beating the Los Angeles Rams.
+12,0,The Los Angeles Rams have a probability of 0.41 of beating the Arizona Cardinals.
+12,1,The Washington Commanders have a probability of 0.16 of beating the Dallas Cowboys.
+12,0,The Chicago Bears have a probability of 0.1 of beating the Minnesota Vikings.
+12,1,The Miami Dolphins have a probability of 0.66 of beating the New York Jets.
+12,0,The Green Bay Packers have a probability of 0.17 of beating the Detroit Lions.
+12,0,The San Francisco 49ers have a probability of 0.28 of beating the Seattle Seahawks.
+12,1,The New Orleans Saints have a probability of 0.25 of beating the Atlanta Falcons.
+12,0,The Pittsburgh Steelers have a probability of 0.15 of beating the Cincinnati Bengals.
+12,0,The Jacksonville Jaguars have a probability of 0.21 of beating the Houston Texans.
+12,0,The Kansas City Chiefs have a probability of 0.39 of beating the Las Vegas Raiders.
+13,1,The Indianapolis Colts have a probability of 0.63 of beating the Tennessee Titans.
+13,0,The Carolina Panthers have a probability of 0.53 of beating the Tampa Bay Buccaneers.
+13,1,The San Francisco 49ers have a probability of 0.61 of beating the Philadelphia Eagles.
+14,1,The New England Patriots have a probability of 0.5 of beating the Pittsburgh Steelers.
+14,0,The Seattle Seahawks have a probability of 0.56 of beating the San Francisco 49ers.
+14,0,The Buffalo Bills have a probability of 0.26 of beating the Kansas City Chiefs.
+14,0,The Denver Broncos have a probability of 0.29 of beating the Los Angeles Chargers.
+14,0,The Detroit Lions have a probability of 0.64 of beating the Chicago Bears.
+14,1,The Philadelphia Eagles have a probability of 0.31 of beating the Dallas Cowboys.
+14,1,The Tampa Bay Buccaneers have a probability of 0.67 of beating the Atlanta Falcons.
+14,1,The Carolina Panthers have a probability of 0.34 of beating the New Orleans Saints.
+15,0,The Atlanta Falcons have a probability of 0.56 of beating the Carolina Panthers.
+15,1,The San Francisco 49ers have a probability of 0.6 of beating the Arizona Cardinals.
+15,1,The Baltimore Ravens have a probability of 0.56 of beating the Jacksonville Jaguars.
+15,1,The Pittsburgh Steelers have a probability of 0.27 of beating the Indianapolis Colts.
+15,1,The Houston Texans have a probability of 0.53 of beating the Tennessee Titans.
+15,0,The Los Angeles Chargers have a probability of 0.75 of beating the Las Vegas Raiders.
+15,1,The New York Jets have a probability of 0.31 of beating the Miami Dolphins.
+16,0,The Detroit Lions have a probability of 0.42 of beating the Minnesota Vikings.
+16,0,The Las Vegas Raiders have a probability of 0.25 of beating the Kansas City Chiefs.
+16,0,The Cincinnati Bengals have a probability of 0.54 of beating the Pittsburgh Steelers.
+16,0,The Cleveland Browns have a probability of 0.29 of beating the Houston Texans.
+16,1,The New York Giants have a probability of 0.32 of beating the Philadelphia Eagles.

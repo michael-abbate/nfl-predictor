@@ -1,0 +1,256 @@
+away_name,away_abbr,home_name,home_abbr,winning_name,winning_abbr,week
+Buffalo Bills,buf,Los Angeles Rams,ram,Buffalo Bills,buf,1
+New Orleans Saints,nor,Atlanta Falcons,atl,New Orleans Saints,nor,1
+Cleveland Browns,cle,Carolina Panthers,car,Cleveland Browns,cle,1
+San Francisco 49ers,sfo,Chicago Bears,chi,Chicago Bears,chi,1
+Pittsburgh Steelers,pit,Cincinnati Bengals,cin,Pittsburgh Steelers,pit,1
+Philadelphia Eagles,phi,Detroit Lions,det,Philadelphia Eagles,phi,1
+Indianapolis Colts,clt,Houston Texans,htx,,,1
+New England Patriots,nwe,Miami Dolphins,mia,Miami Dolphins,mia,1
+Baltimore Ravens,rav,New York Jets,nyj,Baltimore Ravens,rav,1
+Jacksonville Jaguars,jax,Washington Commanders,was,Washington Commanders,was,1
+Kansas City Chiefs,kan,Arizona Cardinals,crd,Kansas City Chiefs,kan,1
+Green Bay Packers,gnb,Minnesota Vikings,min,Minnesota Vikings,min,1
+New York Giants,nyg,Tennessee Titans,oti,New York Giants,nyg,1
+Las Vegas Raiders,rai,Los Angeles Chargers,sdg,Los Angeles Chargers,sdg,1
+Tampa Bay Buccaneers,tam,Dallas Cowboys,dal,Tampa Bay Buccaneers,tam,1
+Denver Broncos,den,Seattle Seahawks,sea,Seattle Seahawks,sea,1
+Los Angeles Chargers,sdg,Kansas City Chiefs,kan,Kansas City Chiefs,kan,2
+New York Jets,nyj,Cleveland Browns,cle,New York Jets,nyj,2
+Washington Commanders,was,Detroit Lions,det,Detroit Lions,det,2
+Indianapolis Colts,clt,Jacksonville Jaguars,jax,Jacksonville Jaguars,jax,2
+Tampa Bay Buccaneers,tam,New Orleans Saints,nor,Tampa Bay Buccaneers,tam,2
+Carolina Panthers,car,New York Giants,nyg,New York Giants,nyg,2
+New England Patriots,nwe,Pittsburgh Steelers,pit,New England Patriots,nwe,2
+Miami Dolphins,mia,Baltimore Ravens,rav,Miami Dolphins,mia,2
+Atlanta Falcons,atl,Los Angeles Rams,ram,Los Angeles Rams,ram,2
+Seattle Seahawks,sea,San Francisco 49ers,sfo,San Francisco 49ers,sfo,2
+Cincinnati Bengals,cin,Dallas Cowboys,dal,Dallas Cowboys,dal,2
+Houston Texans,htx,Denver Broncos,den,Denver Broncos,den,2
+Arizona Cardinals,crd,Las Vegas Raiders,rai,Arizona Cardinals,crd,2
+Chicago Bears,chi,Green Bay Packers,gnb,Green Bay Packers,gnb,2
+Tennessee Titans,oti,Buffalo Bills,buf,Buffalo Bills,buf,2
+Minnesota Vikings,min,Philadelphia Eagles,phi,Philadelphia Eagles,phi,2
+Pittsburgh Steelers,pit,Cleveland Browns,cle,Cleveland Browns,cle,3
+New Orleans Saints,nor,Carolina Panthers,car,Carolina Panthers,car,3
+Houston Texans,htx,Chicago Bears,chi,Chicago Bears,chi,3
+Kansas City Chiefs,kan,Indianapolis Colts,clt,Indianapolis Colts,clt,3
+Buffalo Bills,buf,Miami Dolphins,mia,Miami Dolphins,mia,3
+Detroit Lions,det,Minnesota Vikings,min,Minnesota Vikings,min,3
+Baltimore Ravens,rav,New England Patriots,nwe,Baltimore Ravens,rav,3
+Cincinnati Bengals,cin,New York Jets,nyj,Cincinnati Bengals,cin,3
+Las Vegas Raiders,rai,Tennessee Titans,oti,Tennessee Titans,oti,3
+Philadelphia Eagles,phi,Washington Commanders,was,Philadelphia Eagles,phi,3
+Jacksonville Jaguars,jax,Los Angeles Chargers,sdg,Jacksonville Jaguars,jax,3
+Los Angeles Rams,ram,Arizona Cardinals,crd,Los Angeles Rams,ram,3
+Atlanta Falcons,atl,Seattle Seahawks,sea,Atlanta Falcons,atl,3
+Green Bay Packers,gnb,Tampa Bay Buccaneers,tam,Green Bay Packers,gnb,3
+San Francisco 49ers,sfo,Denver Broncos,den,Denver Broncos,den,3
+Dallas Cowboys,dal,New York Giants,nyg,Dallas Cowboys,dal,3
+Miami Dolphins,mia,Cincinnati Bengals,cin,Cincinnati Bengals,cin,4
+Minnesota Vikings,min,New Orleans Saints,nor,Minnesota Vikings,min,4
+Cleveland Browns,cle,Atlanta Falcons,atl,Atlanta Falcons,atl,4
+Tennessee Titans,oti,Indianapolis Colts,clt,Tennessee Titans,oti,4
+Washington Commanders,was,Dallas Cowboys,dal,Dallas Cowboys,dal,4
+Seattle Seahawks,sea,Detroit Lions,det,Seattle Seahawks,sea,4
+Los Angeles Chargers,sdg,Houston Texans,htx,Los Angeles Chargers,sdg,4
+Chicago Bears,chi,New York Giants,nyg,New York Giants,nyg,4
+Jacksonville Jaguars,jax,Philadelphia Eagles,phi,Philadelphia Eagles,phi,4
+New York Jets,nyj,Pittsburgh Steelers,pit,New York Jets,nyj,4
+Buffalo Bills,buf,Baltimore Ravens,rav,Buffalo Bills,buf,4
+Arizona Cardinals,crd,Carolina Panthers,car,Arizona Cardinals,crd,4
+New England Patriots,nwe,Green Bay Packers,gnb,Green Bay Packers,gnb,4
+Denver Broncos,den,Las Vegas Raiders,rai,Las Vegas Raiders,rai,4
+Kansas City Chiefs,kan,Tampa Bay Buccaneers,tam,Kansas City Chiefs,kan,4
+Los Angeles Rams,ram,San Francisco 49ers,sfo,San Francisco 49ers,sfo,4
+Indianapolis Colts,clt,Denver Broncos,den,Indianapolis Colts,clt,5
+New York Giants,nyg,Green Bay Packers,gnb,New York Giants,nyg,5
+Pittsburgh Steelers,pit,Buffalo Bills,buf,Buffalo Bills,buf,5
+Los Angeles Chargers,sdg,Cleveland Browns,cle,Los Angeles Chargers,sdg,5
+Houston Texans,htx,Jacksonville Jaguars,jax,Houston Texans,htx,5
+Chicago Bears,chi,Minnesota Vikings,min,Minnesota Vikings,min,5
+Seattle Seahawks,sea,New Orleans Saints,nor,New Orleans Saints,nor,5
+Detroit Lions,det,New England Patriots,nwe,New England Patriots,nwe,5
+Miami Dolphins,mia,New York Jets,nyj,New York Jets,nyj,5
+Atlanta Falcons,atl,Tampa Bay Buccaneers,tam,Tampa Bay Buccaneers,tam,5
+Tennessee Titans,oti,Washington Commanders,was,Tennessee Titans,oti,5
+San Francisco 49ers,sfo,Carolina Panthers,car,San Francisco 49ers,sfo,5
+Philadelphia Eagles,phi,Arizona Cardinals,crd,Philadelphia Eagles,phi,5
+Dallas Cowboys,dal,Los Angeles Rams,ram,Dallas Cowboys,dal,5
+Cincinnati Bengals,cin,Baltimore Ravens,rav,Baltimore Ravens,rav,5
+Las Vegas Raiders,rai,Kansas City Chiefs,kan,Kansas City Chiefs,kan,5
+Washington Commanders,was,Chicago Bears,chi,Washington Commanders,was,6
+San Francisco 49ers,sfo,Atlanta Falcons,atl,Atlanta Falcons,atl,6
+New England Patriots,nwe,Cleveland Browns,cle,New England Patriots,nwe,6
+Jacksonville Jaguars,jax,Indianapolis Colts,clt,Indianapolis Colts,clt,6
+New York Jets,nyj,Green Bay Packers,gnb,New York Jets,nyj,6
+Minnesota Vikings,min,Miami Dolphins,mia,Minnesota Vikings,min,6
+Cincinnati Bengals,cin,New Orleans Saints,nor,Cincinnati Bengals,cin,6
+Baltimore Ravens,rav,New York Giants,nyg,New York Giants,nyg,6
+Tampa Bay Buccaneers,tam,Pittsburgh Steelers,pit,Pittsburgh Steelers,pit,6
+Carolina Panthers,car,Los Angeles Rams,ram,Los Angeles Rams,ram,6
+Arizona Cardinals,crd,Seattle Seahawks,sea,Seattle Seahawks,sea,6
+Buffalo Bills,buf,Kansas City Chiefs,kan,Buffalo Bills,buf,6
+Dallas Cowboys,dal,Philadelphia Eagles,phi,Philadelphia Eagles,phi,6
+Denver Broncos,den,Los Angeles Chargers,sdg,Los Angeles Chargers,sdg,6
+New Orleans Saints,nor,Arizona Cardinals,crd,Arizona Cardinals,crd,7
+Tampa Bay Buccaneers,tam,Carolina Panthers,car,Carolina Panthers,car,7
+Atlanta Falcons,atl,Cincinnati Bengals,cin,Cincinnati Bengals,cin,7
+Detroit Lions,det,Dallas Cowboys,dal,Dallas Cowboys,dal,7
+New York Giants,nyg,Jacksonville Jaguars,jax,New York Giants,nyg,7
+Indianapolis Colts,clt,Tennessee Titans,oti,Tennessee Titans,oti,7
+Cleveland Browns,cle,Baltimore Ravens,rav,Baltimore Ravens,rav,7
+Green Bay Packers,gnb,Washington Commanders,was,Washington Commanders,was,7
+New York Jets,nyj,Denver Broncos,den,New York Jets,nyj,7
+Houston Texans,htx,Las Vegas Raiders,rai,Las Vegas Raiders,rai,7
+Seattle Seahawks,sea,Los Angeles Chargers,sdg,Seattle Seahawks,sea,7
+Kansas City Chiefs,kan,San Francisco 49ers,sfo,Kansas City Chiefs,kan,7
+Pittsburgh Steelers,pit,Miami Dolphins,mia,Miami Dolphins,mia,7
+Chicago Bears,chi,New England Patriots,nwe,Chicago Bears,chi,7
+Baltimore Ravens,rav,Tampa Bay Buccaneers,tam,Baltimore Ravens,rav,8
+Denver Broncos,den,Jacksonville Jaguars,jax,Denver Broncos,den,8
+Carolina Panthers,car,Atlanta Falcons,atl,Atlanta Falcons,atl,8
+Chicago Bears,chi,Dallas Cowboys,dal,Dallas Cowboys,dal,8
+Miami Dolphins,mia,Detroit Lions,det,Miami Dolphins,mia,8
+Arizona Cardinals,crd,Minnesota Vikings,min,Minnesota Vikings,min,8
+Las Vegas Raiders,rai,New Orleans Saints,nor,New Orleans Saints,nor,8
+New England Patriots,nwe,New York Jets,nyj,New England Patriots,nwe,8
+Pittsburgh Steelers,pit,Philadelphia Eagles,phi,Philadelphia Eagles,phi,8
+Tennessee Titans,oti,Houston Texans,htx,Tennessee Titans,oti,8
+Washington Commanders,was,Indianapolis Colts,clt,Washington Commanders,was,8
+San Francisco 49ers,sfo,Los Angeles Rams,ram,San Francisco 49ers,sfo,8
+New York Giants,nyg,Seattle Seahawks,sea,Seattle Seahawks,sea,8
+Green Bay Packers,gnb,Buffalo Bills,buf,Buffalo Bills,buf,8
+Cincinnati Bengals,cin,Cleveland Browns,cle,Cleveland Browns,cle,8
+Philadelphia Eagles,phi,Houston Texans,htx,Philadelphia Eagles,phi,9
+Los Angeles Chargers,sdg,Atlanta Falcons,atl,Los Angeles Chargers,sdg,9
+Miami Dolphins,mia,Chicago Bears,chi,Miami Dolphins,mia,9
+Carolina Panthers,car,Cincinnati Bengals,cin,Cincinnati Bengals,cin,9
+Green Bay Packers,gnb,Detroit Lions,det,Detroit Lions,det,9
+Las Vegas Raiders,rai,Jacksonville Jaguars,jax,Jacksonville Jaguars,jax,9
+Indianapolis Colts,clt,New England Patriots,nwe,New England Patriots,nwe,9
+Buffalo Bills,buf,New York Jets,nyj,New York Jets,nyj,9
+Minnesota Vikings,min,Washington Commanders,was,Minnesota Vikings,min,9
+Seattle Seahawks,sea,Arizona Cardinals,crd,Seattle Seahawks,sea,9
+Los Angeles Rams,ram,Tampa Bay Buccaneers,tam,Tampa Bay Buccaneers,tam,9
+Tennessee Titans,oti,Kansas City Chiefs,kan,Kansas City Chiefs,kan,9
+Baltimore Ravens,rav,New Orleans Saints,nor,Baltimore Ravens,rav,9
+Atlanta Falcons,atl,Carolina Panthers,car,Carolina Panthers,car,10
+Seattle Seahawks,sea,Tampa Bay Buccaneers,tam,Tampa Bay Buccaneers,tam,10
+Minnesota Vikings,min,Buffalo Bills,buf,Minnesota Vikings,min,10
+Detroit Lions,det,Chicago Bears,chi,Detroit Lions,det,10
+Jacksonville Jaguars,jax,Kansas City Chiefs,kan,Kansas City Chiefs,kan,10
+Cleveland Browns,cle,Miami Dolphins,mia,Miami Dolphins,mia,10
+Houston Texans,htx,New York Giants,nyg,New York Giants,nyg,10
+Denver Broncos,den,Tennessee Titans,oti,Tennessee Titans,oti,10
+New Orleans Saints,nor,Pittsburgh Steelers,pit,Pittsburgh Steelers,pit,10
+Indianapolis Colts,clt,Las Vegas Raiders,rai,Indianapolis Colts,clt,10
+Dallas Cowboys,dal,Green Bay Packers,gnb,Green Bay Packers,gnb,10
+Arizona Cardinals,crd,Los Angeles Rams,ram,Arizona Cardinals,crd,10
+Los Angeles Chargers,sdg,San Francisco 49ers,sfo,San Francisco 49ers,sfo,10
+Washington Commanders,was,Philadelphia Eagles,phi,Washington Commanders,was,10
+Tennessee Titans,oti,Green Bay Packers,gnb,Tennessee Titans,oti,11
+Chicago Bears,chi,Atlanta Falcons,atl,Atlanta Falcons,atl,11
+Cleveland Browns,cle,Buffalo Bills,buf,Buffalo Bills,buf,11
+Philadelphia Eagles,phi,Indianapolis Colts,clt,Philadelphia Eagles,phi,11
+Washington Commanders,was,Houston Texans,htx,Washington Commanders,was,11
+Los Angeles Rams,ram,New Orleans Saints,nor,New Orleans Saints,nor,11
+New York Jets,nyj,New England Patriots,nwe,New England Patriots,nwe,11
+Detroit Lions,det,New York Giants,nyg,Detroit Lions,det,11
+Carolina Panthers,car,Baltimore Ravens,rav,Baltimore Ravens,rav,11
+Las Vegas Raiders,rai,Denver Broncos,den,Las Vegas Raiders,rai,11
+Dallas Cowboys,dal,Minnesota Vikings,min,Dallas Cowboys,dal,11
+Cincinnati Bengals,cin,Pittsburgh Steelers,pit,Cincinnati Bengals,cin,11
+Kansas City Chiefs,kan,Los Angeles Chargers,sdg,Kansas City Chiefs,kan,11
+San Francisco 49ers,sfo,Arizona Cardinals,crd,San Francisco 49ers,sfo,11
+Buffalo Bills,buf,Detroit Lions,det,Buffalo Bills,buf,12
+New York Giants,nyg,Dallas Cowboys,dal,Dallas Cowboys,dal,12
+New England Patriots,nwe,Minnesota Vikings,min,Minnesota Vikings,min,12
+Denver Broncos,den,Carolina Panthers,car,Carolina Panthers,car,12
+Tampa Bay Buccaneers,tam,Cleveland Browns,cle,Cleveland Browns,cle,12
+Baltimore Ravens,rav,Jacksonville Jaguars,jax,Jacksonville Jaguars,jax,12
+Houston Texans,htx,Miami Dolphins,mia,Miami Dolphins,mia,12
+Chicago Bears,chi,New York Jets,nyj,New York Jets,nyj,12
+Cincinnati Bengals,cin,Tennessee Titans,oti,Cincinnati Bengals,cin,12
+Atlanta Falcons,atl,Washington Commanders,was,Washington Commanders,was,12
+Los Angeles Chargers,sdg,Arizona Cardinals,crd,Los Angeles Chargers,sdg,12
+Las Vegas Raiders,rai,Seattle Seahawks,sea,Las Vegas Raiders,rai,12
+Los Angeles Rams,ram,Kansas City Chiefs,kan,Kansas City Chiefs,kan,12
+New Orleans Saints,nor,San Francisco 49ers,sfo,San Francisco 49ers,sfo,12
+Green Bay Packers,gnb,Philadelphia Eagles,phi,Philadelphia Eagles,phi,12
+Pittsburgh Steelers,pit,Indianapolis Colts,clt,Pittsburgh Steelers,pit,12
+Buffalo Bills,buf,New England Patriots,nwe,Buffalo Bills,buf,13
+Pittsburgh Steelers,pit,Atlanta Falcons,atl,Pittsburgh Steelers,pit,13
+Green Bay Packers,gnb,Chicago Bears,chi,Green Bay Packers,gnb,13
+Jacksonville Jaguars,jax,Detroit Lions,det,Detroit Lions,det,13
+Cleveland Browns,cle,Houston Texans,htx,Cleveland Browns,cle,13
+New York Jets,nyj,Minnesota Vikings,min,Minnesota Vikings,min,13
+Washington Commanders,was,New York Giants,nyg,,,13
+Tennessee Titans,oti,Philadelphia Eagles,phi,Philadelphia Eagles,phi,13
+Denver Broncos,den,Baltimore Ravens,rav,Baltimore Ravens,rav,13
+Seattle Seahawks,sea,Los Angeles Rams,ram,Seattle Seahawks,sea,13
+Miami Dolphins,mia,San Francisco 49ers,sfo,San Francisco 49ers,sfo,13
+Kansas City Chiefs,kan,Cincinnati Bengals,cin,Cincinnati Bengals,cin,13
+Los Angeles Chargers,sdg,Las Vegas Raiders,rai,Las Vegas Raiders,rai,13
+Indianapolis Colts,clt,Dallas Cowboys,dal,Dallas Cowboys,dal,13
+New Orleans Saints,nor,Tampa Bay Buccaneers,tam,Tampa Bay Buccaneers,tam,13
+Las Vegas Raiders,rai,Los Angeles Rams,ram,Los Angeles Rams,ram,14
+New York Jets,nyj,Buffalo Bills,buf,Buffalo Bills,buf,14
+Cleveland Browns,cle,Cincinnati Bengals,cin,Cincinnati Bengals,cin,14
+Houston Texans,htx,Dallas Cowboys,dal,Dallas Cowboys,dal,14
+Minnesota Vikings,min,Detroit Lions,det,Detroit Lions,det,14
+Philadelphia Eagles,phi,New York Giants,nyg,Philadelphia Eagles,phi,14
+Jacksonville Jaguars,jax,Tennessee Titans,oti,Jacksonville Jaguars,jax,14
+Baltimore Ravens,rav,Pittsburgh Steelers,pit,Baltimore Ravens,rav,14
+Kansas City Chiefs,kan,Denver Broncos,den,Kansas City Chiefs,kan,14
+Carolina Panthers,car,Seattle Seahawks,sea,Carolina Panthers,car,14
+Tampa Bay Buccaneers,tam,San Francisco 49ers,sfo,San Francisco 49ers,sfo,14
+Miami Dolphins,mia,Los Angeles Chargers,sdg,Los Angeles Chargers,sdg,14
+New England Patriots,nwe,Arizona Cardinals,crd,New England Patriots,nwe,14
+San Francisco 49ers,sfo,Seattle Seahawks,sea,San Francisco 49ers,sfo,15
+Indianapolis Colts,clt,Minnesota Vikings,min,Minnesota Vikings,min,15
+Baltimore Ravens,rav,Cleveland Browns,cle,Cleveland Browns,cle,15
+Miami Dolphins,mia,Buffalo Bills,buf,Buffalo Bills,buf,15
+Pittsburgh Steelers,pit,Carolina Panthers,car,Pittsburgh Steelers,pit,15
+Philadelphia Eagles,phi,Chicago Bears,chi,Philadelphia Eagles,phi,15
+Kansas City Chiefs,kan,Houston Texans,htx,Kansas City Chiefs,kan,15
+Dallas Cowboys,dal,Jacksonville Jaguars,jax,Jacksonville Jaguars,jax,15
+Atlanta Falcons,atl,New Orleans Saints,nor,New Orleans Saints,nor,15
+Detroit Lions,det,New York Jets,nyj,Detroit Lions,det,15
+Arizona Cardinals,crd,Denver Broncos,den,Denver Broncos,den,15
+New England Patriots,nwe,Las Vegas Raiders,rai,Las Vegas Raiders,rai,15
+Tennessee Titans,oti,Los Angeles Chargers,sdg,Los Angeles Chargers,sdg,15
+Cincinnati Bengals,cin,Tampa Bay Buccaneers,tam,Cincinnati Bengals,cin,15
+New York Giants,nyg,Washington Commanders,was,New York Giants,nyg,15
+Los Angeles Rams,ram,Green Bay Packers,gnb,Green Bay Packers,gnb,15
+Jacksonville Jaguars,jax,New York Jets,nyj,Jacksonville Jaguars,jax,16
+Detroit Lions,det,Carolina Panthers,car,Carolina Panthers,car,16
+Buffalo Bills,buf,Chicago Bears,chi,Buffalo Bills,buf,16
+New Orleans Saints,nor,Cleveland Browns,cle,New Orleans Saints,nor,16
+Seattle Seahawks,sea,Kansas City Chiefs,kan,Kansas City Chiefs,kan,16
+New York Giants,nyg,Minnesota Vikings,min,Minnesota Vikings,min,16
+Cincinnati Bengals,cin,New England Patriots,nwe,Cincinnati Bengals,cin,16
+Houston Texans,htx,Tennessee Titans,oti,Houston Texans,htx,16
+Atlanta Falcons,atl,Baltimore Ravens,rav,Baltimore Ravens,rav,16
+Washington Commanders,was,San Francisco 49ers,sfo,San Francisco 49ers,sfo,16
+Philadelphia Eagles,phi,Dallas Cowboys,dal,Dallas Cowboys,dal,16
+Las Vegas Raiders,rai,Pittsburgh Steelers,pit,Pittsburgh Steelers,pit,16
+Green Bay Packers,gnb,Miami Dolphins,mia,Green Bay Packers,gnb,16
+Denver Broncos,den,Los Angeles Rams,ram,Los Angeles Rams,ram,16
+Tampa Bay Buccaneers,tam,Arizona Cardinals,crd,Tampa Bay Buccaneers,tam,16
+Los Angeles Chargers,sdg,Indianapolis Colts,clt,Los Angeles Chargers,sdg,16
+Dallas Cowboys,dal,Tennessee Titans,oti,Dallas Cowboys,dal,17
+Arizona Cardinals,crd,Atlanta Falcons,atl,Atlanta Falcons,atl,17
+Chicago Bears,chi,Detroit Lions,det,Detroit Lions,det,17
+Jacksonville Jaguars,jax,Houston Texans,htx,Jacksonville Jaguars,jax,17
+Denver Broncos,den,Kansas City Chiefs,kan,Kansas City Chiefs,kan,17
+Miami Dolphins,mia,New England Patriots,nwe,New England Patriots,nwe,17
+Indianapolis Colts,clt,New York Giants,nyg,New York Giants,nyg,17
+New Orleans Saints,nor,Philadelphia Eagles,phi,New Orleans Saints,nor,17
+Carolina Panthers,car,Tampa Bay Buccaneers,tam,Tampa Bay Buccaneers,tam,17
+Cleveland Browns,cle,Washington Commanders,was,Cleveland Browns,cle,17
+San Francisco 49ers,sfo,Las Vegas Raiders,rai,San Francisco 49ers,sfo,17
+New York Jets,nyj,Seattle Seahawks,sea,Seattle Seahawks,sea,17
+Minnesota Vikings,min,Green Bay Packers,gnb,Green Bay Packers,gnb,17
+Los Angeles Rams,ram,Los Angeles Chargers,sdg,Los Angeles Chargers,sdg,17
+Pittsburgh Steelers,pit,Baltimore Ravens,rav,Pittsburgh Steelers,pit,17

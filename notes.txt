@@ -1,0 +1,11 @@
+Elo data:
+https://github.com/fivethirtyeight/data/tree/master/nfl-elo
+
+Sports Reference Bot - Data Usage info:
+https://www.sports-reference.com/data_use.html
+
+Gitlab NB reference:
+https://gitlab.com/mcmillenkel/nfl_predicting_game_outcomes/-/blob/master/NFL_game_prediction.ipynb
+
+Your NB:
+https://colab.research.google.com/drive/1jKQiUg4nq5Gk9IA-53oSgHGKOMCXRsWV#scrollTo=mYxdha7qlQeM
